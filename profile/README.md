@@ -1,4 +1,9 @@
-## Horvans
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="Horvans" width="300">
+  </picture>
+</p>
 
 We build software for education businesses in India.
 
