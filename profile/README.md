@@ -1,13 +1,14 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo-light.svg" alt="Horvans" width="300">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Horvans. Building the tomorrow we want to wake up in, one small, careful line at a time." width="100%">
+</picture>
 
 <p align="center"><i>Every tomorrow is built by someone, today.</i></p>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
 
 ### &nbsp;Why we exist
 
@@ -19,10 +20,17 @@ Not for applause, and not for noise. For the quiet moment when a door that was c
 
 ### &nbsp;What we believe
 
-- Technology should feel like a hand on the shoulder, not a wall in the way.
-- Simple outlasts clever. Honest outlasts loud.
-- The best work is built to last, and built to be shared.
-- A better tomorrow is not found. It is made, one small, careful line at a time.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/beliefs-dark.svg">
+  <img src="assets/beliefs-light.svg" alt="Technology should be a hand on the shoulder, not a wall. Simple outlasts clever, honest outlasts loud. A better tomorrow is made, not found." width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+  <img src="assets/quote-light.svg" alt="We build for that light. Not for applause, and not for noise." width="100%">
+</picture>
 
 ### &nbsp;What we make, for now
 
@@ -30,4 +38,13 @@ Tools that help teachers teach and learners rise, starting with [Horvan Edu Coac
 
 <br>
 
-<p align="center"><sub><a href="https://horvans.com">horvans.com</a> &nbsp;&middot;&nbsp; building the tomorrow we want to wake up in</sub></p>
+<p align="center">
+  <a href="https://horvans.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/mark-dark.svg">
+      <img src="assets/mark-light.svg" alt="Horvans" width="120">
+    </picture>
+  </a>
+  <br>
+  <sub><a href="https://horvans.com">horvans.com</a> &nbsp;&middot;&nbsp; building the tomorrow we want to wake up in</sub>
+</p>
